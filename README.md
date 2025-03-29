@@ -52,6 +52,11 @@ Simply open index.html in your browser.
 # 📸 Screenshots
 (Add website screenshots here for better visualization.)
 
+![Sample Image](img/SampleImage.png)
+
+
+
+
 # 📞 Contact
 For any queries or collaborations, reach out at:
 📧 Email: your-email@example.com
