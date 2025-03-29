@@ -27,10 +27,30 @@ Welcome to **Go Green**, a modern and professional company portfolio website des
 
 ## 📂 Project Structure
 
-Go-Green_Portfolio/ # Root folder of project │── css/ # Stylesheets folder │ ├── style.css # Main CSS file │
-│── js/ # JavaScript files │ ├── script.js # Main JavaScript file │
-│── img/ # Images folder
-│ ├── logo.png # Company logo │ ├── banner.jpg # Homepage banner image │ ├── SampleImage.png # Example image │ │── vendor/ # Additional pages and components │ ├── about.html # About Us page │ ├── contact.html # Contact Us page │ ├── portfolio.html # Portfolio page │ ├── price.html # Pricing page │ ├── service.html # Services page │ │── index.html # Main Homepage │── README.md # Project Documentation │── favicon.ico # Website icon
+```plaintext
+Go-Green_Portfolio/          # Root folder of the project
+│── css/                     # Stylesheets folder
+│   ├── style.css            # Main CSS file
+│        
+│── js/                      # JavaScript files
+│   ├── script.js            # Main JavaScript file
+│   
+│── img/                     # Images folder         
+│   ├── logo.png             # Company logo
+│   ├── banner.jpg           # Homepage banner image
+│   ├── SampleImage.png      # Example image
+│
+│── vendor/                  # Additional pages and components
+│   ├── about.html           # About Us page
+│   ├── contact.html         # Contact Us page
+│   ├── portfolio.html       # Portfolio page
+│   ├── price.html           # Pricing page
+│   ├── service.html         # Services page
+│
+│── index.html               # Main Homepage
+│── README.md                # Project Documentation
+│── favicon.ico              # Website icon
+```
 
 
 
