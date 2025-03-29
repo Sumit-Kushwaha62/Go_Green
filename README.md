@@ -59,7 +59,7 @@ Go-Green_Portfolio/          # Root folder of the project
 ![Sample Image](img/SampleImage.png)
 
 # Live preview:
-- ## go-green-porfolio.netlify.app
+## https://go-green-porfolio.netlify.app/
 
 ---
 # 📞 Contact
