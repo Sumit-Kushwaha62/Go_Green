@@ -21,7 +21,7 @@ Welcome to **Go Green**, a modern and professional company portfolio website des
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap/Tailwind  
 - **Version Control:** Git & GitHub  
-- **Deployment:** Vercel/Netlify (if hosted)  
+- **Deployment:** Vercel/Netlify  
 
 ---
 
@@ -59,11 +59,10 @@ Go-Green_Portfolio/          # Root folder of the project
 ![Sample Image](img/SampleImage.png)
 
 
-
 # 📞 Contact
 For any queries or collaborations, reach out at:
 📧 Email: sumitkushwaha99375@gmail.com
-📱 LinkedIn: linkedin.com/in/your-profile
+📱 LinkedIn: www.linkedin.com/in/sumit-kushwaha750
 
 # 📜 License
 This project is licensed under the MIT License – feel free to modify and use it.
