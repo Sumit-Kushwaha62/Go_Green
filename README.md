@@ -46,22 +46,6 @@ Go-Green_Portfolio/          # Root folder of project
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🚀 Installation & Setup
 1. Clone the Repository
 
