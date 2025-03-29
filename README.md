@@ -15,26 +15,51 @@ Welcome to Go Green, a modern and professional company portfolio website designe
 # 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript, Bootstrap/Tailwind
 
-Backend: Node.js, Express.js (if applicable)
-
-Database: MongoDB/MySQL (if applicable)
-
 Version Control: Git & GitHub
 
 Deployment: Vercel/Netlify (if hosted)
 
 # 📂 Project Structure
 
-/project-folder  
-│── index.html          # Homepage  
-│── about.html          # About Us Page  
-│── services.html       # Services Page  
-│── portfolio.html      # Portfolio Page  
-│── contact.html        # Contact Us Page  
-│── assets/             # Images, icons, and other media  
-│── css/                # Stylesheets  
-│── js/                 # JavaScript files  
-│── README.md           # Project Documentation  
+Go-Green_Portfolio/          # Root folder of project
+│── css/                     # Stylesheets folder
+│   ├── style.css            # Main CSS file
+│        
+│
+│── js/                      # JavaScript files
+│   ├── script.js            # Main JavaScript file
+│   
+│
+│── img/                     # Images folder         
+│   ├── Other images
+│   ├── SampleImage.png      # Example image
+│
+│── vendor/                  # Additional pages and components
+│   ├── about.html           # About Us page
+│   ├── contact.html         # Contact Us page
+│   ├── portfolio.html       # Portfolio page
+│   ├── price.html           # Pricing page
+│   ├── service.html         # Services page
+│
+│── index.html               # Main Homepage
+│── README.md                # Project Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 🚀 Installation & Setup
@@ -50,7 +75,6 @@ Simply open index.html in your browser.
 
 
 # 📸 Screenshots
-(Add website screenshots here for better visualization.)
 
 ![Sample Image](img/SampleImage.png)
 
@@ -59,7 +83,7 @@ Simply open index.html in your browser.
 
 # 📞 Contact
 For any queries or collaborations, reach out at:
-📧 Email: your-email@example.com
+📧 Email: sumitkushwaha99375@gmail.com
 📱 LinkedIn: linkedin.com/in/your-profile
 
 # 📜 License
