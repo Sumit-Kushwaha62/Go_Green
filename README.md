@@ -58,12 +58,12 @@ Go-Green_Portfolio/          # Root folder of the project
 
 ![Sample Image](img/SampleImage.png)
 
-
+---
 # 📞 Contact
 For any queries or collaborations, reach out at:
 - ## 📧 Email: sumitkushwaha99375@gmail.com
 - ## 📱 LinkedIn: www.linkedin.com/in/sumit-kushwaha750
-
+---
 # 📜 License
 This project is licensed under the MIT License – feel free to modify and use it.
 
